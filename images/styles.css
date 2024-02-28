@@ -1,0 +1,21 @@
+.small-img{
+    height: 400px;
+    color: coral;
+    background-color: white;
+}
+.big-img{
+    background: white;
+    text-transform: none;
+    text-align: left;
+    text-overflow: inherit;
+}
+div{
+    background: white
+}
+.folder-img{
+    color: coral;
+}
+body{
+    background:white;
+    text-decoration-color: blueviolet;
+}
